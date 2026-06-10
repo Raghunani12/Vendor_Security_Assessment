@@ -1,6 +1,6 @@
 # VendorRisk Intelligence
 
-A browser-based **Third-Party Risk Management (TPRM)** tool that performs passive, CORS-safe reconnaissance on vendor domains and generates structured risk assessments powered by the Google Gemini AI API.
+A browser-based ** Risk Management ** tool that performs passive, CORS-safe reconnaissance on vendor domains and generates structured risk assessments powered by the Google Gemini AI API.
 
 ---
 
